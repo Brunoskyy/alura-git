@@ -24,6 +24,6 @@ Então vamos aprender...
 
 Obi-Wan Kenobi
 >"Use a Força, Luke."
-## :)
+## Use a força do git, Dev! :)
 
 >"Que a Força esteja com você."
