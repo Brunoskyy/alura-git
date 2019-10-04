@@ -3,6 +3,8 @@
 Como diria *Nicholas Sparks*
 >"Nunca é tarde demais para fazer a coisa certa."
 
+Então vamos aprender...
+
 ## Oque Aprendi:
 1. Conceitos Basícos
     - Git Add
@@ -19,3 +21,9 @@ Como diria *Nicholas Sparks*
     - Git revert
     - Git Diff
     - Git Tag(-a adiciona e -m deixa a mensagem)
+
+Obi-Wan Kenobi
+>"Use a Força, Luke."
+## :)
+
+>"Que a Força esteja com você."
