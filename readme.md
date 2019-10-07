@@ -27,6 +27,7 @@ Então vamos aprender...
     * Git bisect
     * Git blame
     * Git show {hash}
+    * Git Flow
 
 Obi-Wan Kenobi
 >"Use a Força, Luke."
