@@ -22,6 +22,12 @@ Então vamos aprender...
     - Git Diff
     - Git Tag(-a adiciona e -m deixa a mensagem)
 
+3. Conceitos um pouco mais avançados(na minha opinião)
+    * Git cherry-pick
+    * Git bisect
+    * Git blame
+    * Git show {hash}
+
 Obi-Wan Kenobi
 >"Use a Força, Luke."
 ## Use a força do git, Dev! :)
