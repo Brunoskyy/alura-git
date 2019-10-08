@@ -28,6 +28,8 @@ Então vamos aprender...
     * Git blame
     * Git show {hash}
     * Git Flow
+    * Git Hooks
+    * Ferramentas Git: Git Cola, Git desktop e Git Kraken
 
 Obi-Wan Kenobi
 >"Use a Força, Luke."
